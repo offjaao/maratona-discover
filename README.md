@@ -1,2 +1,2 @@
-# maratona-discover
-Maratona discover elaborada pela RocketSeat
+# discover
+Designed by RocketSeat
